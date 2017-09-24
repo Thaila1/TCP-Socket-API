@@ -1,4 +1,4 @@
-# TCP-socket-connection
+# TCP-Socket-API
 Steps to compile and  execute:
 TCP module:
 	-To compile server module:
